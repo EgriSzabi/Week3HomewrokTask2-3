@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="merigold">#eaa221</color>
+    <color name="orange">#FF6347</color>
+    <color name="lightblue">#48AAAD</color>
+    <color name="blue">#45b6fe</color>
+    <color name="purple">#800080</color>
+</resources>
